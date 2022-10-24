@@ -59,6 +59,12 @@ print(2**0.5) #0.5 will become root
 
 print(2**2) #becames 2power2
 
+# Assignment operators
+
+num = 1
+num+=1
+print(num) #2
+
 #To calculate big number python uses precedence rule 
 """
 remember parenthesis() to calculate big number --> highest
