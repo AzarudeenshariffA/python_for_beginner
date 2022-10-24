@@ -65,11 +65,14 @@ num = 1
 num+=1
 print(num) #2
 
+# boolean operator
+# And, or--> see in chapter 3 folder
+
 #To calculate big number python uses precedence rule 
 """
 remember parenthesis() to calculate big number --> highest
 exponent --> r to l
-*,/,//,% --> l to r
+*,/(float devision),//(integer devision),% --> l to r
 +,- --> l to r
 """
 
