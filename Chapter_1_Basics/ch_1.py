@@ -92,7 +92,7 @@ we can use alphabets and underscore in starting letter but not number or special
 eg:-$name='hi'
 """
 
-#naming conventions:- 
+#naming conventions--> 
 #snakecase writing --> user_first_name 
 
 #we use snakecase in python
